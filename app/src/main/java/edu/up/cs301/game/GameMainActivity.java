@@ -29,6 +29,7 @@ import edu.up.cs301.game.config.GameConfig;
 import edu.up.cs301.game.config.GamePlayerType;
 import edu.up.cs301.game.util.IPCoder;
 import edu.up.cs301.game.util.MessageBox;
+import edu.up.cs301.pig.R;
 
 /**
  * class GameMainActivity

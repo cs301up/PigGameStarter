@@ -2,7 +2,6 @@ package edu.up.cs301.pig;
 
 import edu.up.cs301.game.GameHumanPlayer;
 import edu.up.cs301.game.GameMainActivity;
-import edu.up.cs301.game.R;
 import edu.up.cs301.game.infoMsg.GameInfo;
 
 import android.graphics.Color;
